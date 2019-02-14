@@ -1,0 +1,35 @@
+.nav-link {
+    font-weight: 500;
+}
+.navbar-brand {
+    font-weight: 500;
+}
+.font {
+    font-size: 50px;
+}
+.todo {
+    font-size:20px;
+    font-weight: 700;
+}
+@media(max-width:450px) {
+    .card {
+        width:5rem !important;
+        height:8rem;
+    }
+    .stat {
+        text-align: center !important;
+        margin-right: 15px !important;
+        font-size: 12px;
+        font-weight:700;
+    }
+      .statInfo {
+        text-align: center !important;
+        margin-right: 15px !important;
+        font-size: 12px;
+        font-weight:600;
+    }
+    .font {
+    font-size: 30px;
+    text-align: center;
+}
+}
